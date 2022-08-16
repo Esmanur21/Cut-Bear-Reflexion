@@ -1,0 +1,11 @@
+img{
+    background: transparent;
+    -webkit-box-reflect: left -179px linear-gradient(to bottom,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0,0, 0.9));
+}
+*{
+   
+    text-align: center;
+background-color: #ECEAE8;
+}
